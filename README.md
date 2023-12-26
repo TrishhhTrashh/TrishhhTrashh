@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TrishhhTrashh
+- 👋 Hi! I’m Trisha.
 - 👀 I’m interested in Game Development
 - 🌱 I’m currently learning C# and Unity Interface
 - 📫 How to reach me 
